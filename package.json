@@ -1,0 +1,7 @@
+{
+  "name": "yarn-berry-utils-monorepo",
+  "packageManager": "yarn@4.0.1",
+  "workspaces": [
+    "packages/**/**"
+  ]
+}
