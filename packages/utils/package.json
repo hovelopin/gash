@@ -4,5 +4,8 @@
   "main": "./src/index.ts",
   "scripts": {
     "test": "main"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
   }
 }
