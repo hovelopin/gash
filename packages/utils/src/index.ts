@@ -1,11 +1,12 @@
-interface Obj {
-  name: string;
-  age: number;
+export function add(a: number, b: number) {
+  return a + b;
 }
-
-const obj: Obj = {
-  name: "호진",
-  age: 30,
-};
-
-console.log("여기가 찍히나요", obj);
+export function subtract(a: number, b: number) {
+  return a - b;
+}
+export function multiply(a: number, b: number) {
+  return a * b;
+}
+export function divide(a: number, b: number) {
+  return a / b;
+}

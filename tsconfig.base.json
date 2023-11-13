@@ -1,4 +1,4 @@
-// tsconfig 기본 셋팅 수정 필요
+// 호진FIXME: tsconfig 기본 셋팅 수정 필요
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
