@@ -2,7 +2,8 @@
   "name": "yarn-berry-utils-monorepo",
   "packageManager": "yarn@4.0.1",
   "workspaces": [
-    "packages/**/**"
+    "packages/**/**",
+    "app/**/**"
   ],
   "devDependencies": {
     "typescript": "^5.2.2"
